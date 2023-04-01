@@ -1,0 +1,23 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Cenas","order":10,"path":"folders/Cenas.yy",},
+    {"name":"Objetos","order":9,"path":"folders/Objetos.yy",},
+    {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"Oserra","order":2,"path":"objects/Oserra/Oserra.yy",},
+    {"name":"Sserra","order":3,"path":"sprites/Sserra/Sserra.yy",},
+    {"name":"Orobo","order":4,"path":"objects/Orobo/Orobo.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Srobo2","order":6,"path":"sprites/Srobo2/Srobo2.yy",},
+    {"name":"Srobo","order":4,"path":"sprites/Srobo/Srobo.yy",},
+    {"name":"Splayer","order":2,"path":"sprites/Splayer/Splayer.yy",},
+    {"name":"Oplayer","order":1,"path":"objects/Oplayer/Oplayer.yy",},
+    {"name":"OserraMov","order":3,"path":"objects/OserraMov/OserraMov.yy",},
+    {"name":"Orobo2","order":5,"path":"objects/Orobo2/Orobo2.yy",},
+    {"name":"SHamburguer","order":1,"path":"sprites/SHamburguer/SHamburguer.yy",},
+    {"name":"Room3","order":2,"path":"rooms/Room3/Room3.yy",},
+    {"name":"Splaneta2","order":5,"path":"sprites/Splaneta2/Splaneta2.yy",},
+  ],
+}
