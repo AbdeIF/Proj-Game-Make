@@ -12,6 +12,11 @@ var y_min = 0 + char_height / 2;
 var y_max = room_height - char_height / 2;
 
 // Movimentação do personagem
+if not keyboard_check(vk_up)
+{
+    y += 2;
+   
+}
 if keyboard_check(vk_up)
 {
     y -= 4;
@@ -38,6 +43,7 @@ x = max(x, x_min);
 x = min(x, x_max);
 y = max(y, y_min);
 y = min(y, y_max);
+
 
 if joia == 3
 {
