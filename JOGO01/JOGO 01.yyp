@@ -24,8 +24,8 @@
   },
   "resources": [
     {"id":{"name":"Oserra","path":"objects/Oserra/Oserra.yy",},},
-    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"Sserra","path":"sprites/Sserra/Sserra.yy",},},
+    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"Orobo","path":"objects/Orobo/Orobo.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Splaneta1","path":"sprites/Splaneta1/Splaneta1.yy",},},

@@ -7,8 +7,8 @@
   ],
   "ResourceOrderSettings": [
     {"name":"Oserra","order":2,"path":"objects/Oserra/Oserra.yy",},
-    {"name":"Room3","order":2,"path":"rooms/Room3/Room3.yy",},
     {"name":"Sserra","order":3,"path":"sprites/Sserra/Sserra.yy",},
+    {"name":"Room3","order":3,"path":"rooms/Room3/Room3.yy",},
     {"name":"Orobo","order":4,"path":"objects/Orobo/Orobo.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"Srobo2","order":6,"path":"sprites/Srobo2/Srobo2.yy",},
