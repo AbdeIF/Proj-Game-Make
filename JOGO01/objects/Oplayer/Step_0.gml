@@ -49,3 +49,7 @@ if joia == 3
 {
     room_goto_next();
 }
+
+if keyboard_key(vk_shift){
+	room_goto_next();
+}

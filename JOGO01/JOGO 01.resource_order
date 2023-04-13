@@ -15,6 +15,7 @@
     {"name":"Srobo","order":4,"path":"sprites/Srobo/Srobo.yy",},
     {"name":"Splayer","order":2,"path":"sprites/Splayer/Splayer.yy",},
     {"name":"Oplayer","order":1,"path":"objects/Oplayer/Oplayer.yy",},
+    {"name":"Sprite8","order":7,"path":"sprites/Sprite8/Sprite8.yy",},
     {"name":"OserraMov","order":3,"path":"objects/OserraMov/OserraMov.yy",},
     {"name":"Orobo2","order":5,"path":"objects/Orobo2/Orobo2.yy",},
     {"name":"SHamburguer","order":1,"path":"sprites/SHamburguer/SHamburguer.yy",},

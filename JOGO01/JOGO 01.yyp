@@ -34,6 +34,7 @@
     {"id":{"name":"Splayer","path":"sprites/Splayer/Splayer.yy",},},
     {"id":{"name":"Ohamburguer","path":"objects/Ohamburguer/Ohamburguer.yy",},},
     {"id":{"name":"Oplayer","path":"objects/Oplayer/Oplayer.yy",},},
+    {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},},
     {"id":{"name":"OserraMov","path":"objects/OserraMov/OserraMov.yy",},},
     {"id":{"name":"Orobo2","path":"objects/Orobo2/Orobo2.yy",},},
     {"id":{"name":"SHamburguer","path":"sprites/SHamburguer/SHamburguer.yy",},},
