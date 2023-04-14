@@ -12,6 +12,8 @@
     {"name":"Orobo","order":4,"path":"objects/Orobo/Orobo.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"Srobo2","order":6,"path":"sprites/Srobo2/Srobo2.yy",},
+    {"name":"Splaneta4","order":9,"path":"sprites/Splaneta4/Splaneta4.yy",},
+    {"name":"Splaneta3","order":8,"path":"sprites/Splaneta3/Splaneta3.yy",},
     {"name":"Srobo","order":4,"path":"sprites/Srobo/Srobo.yy",},
     {"name":"Splayer","order":2,"path":"sprites/Splayer/Splayer.yy",},
     {"name":"Oplayer","order":1,"path":"objects/Oplayer/Oplayer.yy",},

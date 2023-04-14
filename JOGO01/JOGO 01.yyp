@@ -30,6 +30,8 @@
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Splaneta1","path":"sprites/Splaneta1/Splaneta1.yy",},},
     {"id":{"name":"Srobo2","path":"sprites/Srobo2/Srobo2.yy",},},
+    {"id":{"name":"Splaneta4","path":"sprites/Splaneta4/Splaneta4.yy",},},
+    {"id":{"name":"Splaneta3","path":"sprites/Splaneta3/Splaneta3.yy",},},
     {"id":{"name":"Srobo","path":"sprites/Srobo/Srobo.yy",},},
     {"id":{"name":"Splayer","path":"sprites/Splayer/Splayer.yy",},},
     {"id":{"name":"Ohamburguer","path":"objects/Ohamburguer/Ohamburguer.yy",},},
