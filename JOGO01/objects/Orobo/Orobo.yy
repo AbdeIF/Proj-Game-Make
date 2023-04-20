@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Srobo",
-    "path": "sprites/Srobo/Srobo.yy",
+    "name": "SNave1",
+    "path": "sprites/SNave1/SNave1.yy",
   },
   "spriteMaskId": null,
   "visible": true,

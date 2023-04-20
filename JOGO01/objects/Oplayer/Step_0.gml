@@ -47,7 +47,7 @@ y = min(y, y_max);
 
 if joia == 3
 {
-    room_goto_next();
+	instance_create(128, 448, Oportal);
 }
 
 if keyboard_key(vk_shift){
