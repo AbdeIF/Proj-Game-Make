@@ -12,30 +12,30 @@ var y_min = 0 + char_height / 2;
 var y_max = room_height - char_height / 2;
 
 // Movimentação do personagem
-if not keyboard_check(vk_up)
+if (!keyboard_check(vk_up))
 {
     y += 2;
    
 }
-if keyboard_check(vk_up)
+if (keyboard_check(vk_up))
 {
     y -= 4;
    
 }
-if keyboard_check(vk_down)
+if (keyboard_check(vk_down))
 {
     y += 4;
     
 }
-if keyboard_check(vk_left)
+if (keyboard_check(vk_left))
 {
     x -= 4;
-	image_yscale = -1; // Inverte a imagem verticalmente
+    image_yscale = -1; // Inverte a imagem verticalmente
 }
-if keyboard_check(vk_right)
+if (keyboard_check(vk_right))
 {
     x += 4;
-	image_yscale = 1; // Define a escala vertical como positiva
+    image_yscale = 1; // Define a escala vertical como positiva
 }
 
 // Limitação de posição do personagem
@@ -44,12 +44,12 @@ x = min(x, x_max);
 y = max(y, y_min);
 y = min(y, y_max);
 
-
-if joia == 3
+if (joia == 3)
 {
-	instance_create(128, 448, Oportal);
+    instance_create(128, 448, obj_portal);
 }
 
-if keyboard_key(vk_shift){
-	room_goto_next();
+if (keyboard_check(vk_shift))
+{
+    room_goto_next();
 }
