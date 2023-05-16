@@ -16,12 +16,14 @@ var y_max = room_height - char_height / 2;
 if (!keyboard_check(vk_up))
 {
     y += 2;
-	sprite_index = S_playerP
 }
+
+
 if (keyboard_check(vk_up))
 {
     y -= 4;
     image_yscale = 3;
+	sprite_index = S_playerV2;
 }
 if (keyboard_check(vk_down))
 {
@@ -38,6 +40,8 @@ if (keyboard_check(vk_right))
     x += 4;
     image_xscale = 3; // Define a escala vertical como positiva
 }
+
+
 if keyboard_check(vk_anykey)
 {
 	sprite_index = S_playerV
