@@ -34,8 +34,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "S_playerV",
-    "path": "sprites/S_playerV/S_playerV.yy",
+    "name": "S_playerP",
+    "path": "sprites/S_playerP/S_playerP.yy",
   },
   "spriteMaskId": null,
   "visible": true,
