@@ -1,0 +1,7 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"S_som","order":1,"path":"sprites/S_som/S_som.yy",},
+    {"name":"som_fundo","order":1,"path":"sounds/som_fundo/som_fundo.yy",},
+  ],
+}

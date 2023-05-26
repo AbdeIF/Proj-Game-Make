@@ -59,8 +59,3 @@ if (global.joia == 3)
     // Criar o objeto do portal na posição atual do jogador
     instance_create_layer(96,288,"Instances",obj_portal)
 }
-
-if (keyboard_check(vk_shift))
-{
-    room_goto_next();
-}
