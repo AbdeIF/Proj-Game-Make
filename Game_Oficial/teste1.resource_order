@@ -1,7 +1,9 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
-    {"name":"S_som","order":1,"path":"sprites/S_som/S_som.yy",},
-    {"name":"som_fundo","order":1,"path":"sounds/som_fundo/som_fundo.yy",},
+    {"name":"Som_joia","order":3,"path":"sounds/Som_joia/Som_joia.yy",},
+    {"name":"Som_fundo_2","order":2,"path":"sounds/Som_fundo_2/Som_fundo_2.yy",},
+    {"name":"obj_som_fundo","order":1,"path":"objects/obj_som_fundo/obj_som_fundo.yy",},
+    {"name":"Som_fundo","order":1,"path":"sounds/Som_fundo/Som_fundo.yy",},
   ],
 }

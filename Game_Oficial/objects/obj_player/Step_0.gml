@@ -29,7 +29,8 @@ if (keyboard_check(vk_up))
 if (keyboard_check(vk_down))
 {
     y += 4;
-     image_yscale = -3;
+	sprite_index = S_playerV2;
+    image_yscale = -3;
 }
 if (keyboard_check(vk_left))
 {

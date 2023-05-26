@@ -7,7 +7,6 @@
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
-    {"name":"inst_7DB112B7_1","path":"rooms/Room3/Room3.yy",},
     {"name":"inst_49567D2D_1","path":"rooms/Room3/Room3.yy",},
     {"name":"inst_3DD2681E_1","path":"rooms/Room3/Room3.yy",},
     {"name":"inst_41A55ADD_1","path":"rooms/Room3/Room3.yy",},
@@ -20,7 +19,6 @@
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7DB112B7_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"properties":[],"rotation":-0.15588379,"scaleX":3.0,"scaleY":2.8,"x":96.0,"y":320.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_49567D2D_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_joia","path":"objects/obj_joia/obj_joia.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":1312.0,"y":64.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3DD2681E_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_joia","path":"objects/obj_joia/obj_joia.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":1184.0,"y":384.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_41A55ADD_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_joia","path":"objects/obj_joia/obj_joia.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":1312.0,"y":704.0,},
