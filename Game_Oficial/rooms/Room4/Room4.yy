@@ -19,6 +19,7 @@
     {"name":"inst_4F9F3AE2","path":"rooms/Room4/Room4.yy",},
     {"name":"inst_28FE0AAE","path":"rooms/Room4/Room4.yy",},
     {"name":"inst_5FABC869","path":"rooms/Room4/Room4.yy",},
+    {"name":"inst_38FFE000","path":"rooms/Room4/Room4.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -35,6 +36,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4F9F3AE2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_serra_mov","path":"objects/obj_serra_mov/obj_serra_mov.yy",},"properties":[],"rotation":-0.15329981,"scaleX":0.52,"scaleY":0.52,"x":1024.0,"y":288.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_28FE0AAE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_serra","path":"objects/obj_serra/obj_serra.yy",},"properties":[],"rotation":0.0,"scaleX":0.52,"scaleY":0.52,"x":1152.0,"y":704.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5FABC869","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_nave","path":"objects/obj_nave/obj_nave.yy",},"properties":[],"rotation":89.79644,"scaleX":1.0,"scaleY":1.0,"x":608.0,"y":192.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_38FFE000","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"properties":[],"rotation":0.0,"scaleX":3.0,"scaleY":2.8,"x":96.0,"y":320.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"S_planeta_5","path":"sprites/S_planeta_5/S_planeta_5.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
