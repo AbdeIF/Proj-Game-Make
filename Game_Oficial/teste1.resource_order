@@ -5,5 +5,8 @@
     {"name":"Som_fundo_2","order":2,"path":"sounds/Som_fundo_2/Som_fundo_2.yy",},
     {"name":"obj_som_fundo","order":1,"path":"objects/obj_som_fundo/obj_som_fundo.yy",},
     {"name":"Som_fundo","order":1,"path":"sounds/Som_fundo/Som_fundo.yy",},
+    {"name":"O_pass","order":2,"path":"objects/O_pass/O_pass.yy",},
+    {"name":"S_telaWin","order":1,"path":"sprites/S_telaWin/S_telaWin.yy",},
+    {"name":"Room5","order":1,"path":"rooms/Room5/Room5.yy",},
   ],
 }
